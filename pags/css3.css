@@ -1,0 +1,44 @@
+.rubik-bubbles-regular { 
+    background-color: aquamarine; 
+    font-family: "Rubik Bubbles", system-ui; 
+    font-weight: 400; 
+    font-style: normal; 
+  } 
+  .rubik-bubbles-regular { 
+    background-color: rgba(85, 219, 32, 0.841); 
+    font-family: "Rubik Bubbles", system-ui; 
+    font-weight: 400; 
+    font-style: normal; 
+  } 
+  .container{ 
+ 
+    background-color: yellow; 
+    
+    
+   } 
+  s 
+.row{ 
+    margin: 5px; 
+} 
+.col{ 
+    background-color: violet; 
+    margin: 5px; 
+} 
+.modal{ 
+    background-color: tomato; 
+} 
+.btn { 
+    background-color: cadetblue; 
+} 
+body{ 
+    background-image:url("https://static.vecteezy.com/system/resources/previews/020/410/086/non_2x/3d-sport-rendering-background-for-a-sports-game-3d-illustration-realistic-abstract-backdrop-ball-object-copy-space-tennis-soccer-basketball-golf-rugby-volleyball-elements-neon-concept-design-photo.jpg"); 
+    
+
+    background-size: cover; /* La imagen cubrirá todo el área del body */
+    background-position: center; /* La imagen se centrará */
+    
+}
+
+p{
+    color: rgb(104, 104, 109);
+}

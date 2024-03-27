@@ -1,0 +1,46 @@
+.rubik-bubbles-regular { 
+    background-color: aquamarine; 
+    font-family: "Rubik Bubbles", system-ui; 
+    font-weight: 400; 
+    font-style: normal; 
+  } 
+  .rubik-bubbles-regular { 
+    background-color: rgba(23, 233, 187, 0.841); 
+    font-family: "Rubik Bubbles", system-ui; 
+    font-weight: 400; 
+    font-style: normal; 
+  } 
+  .container{ 
+ 
+    background-color: yellow; 
+    
+    
+   } 
+  s 
+.row{ 
+    margin: 5px; 
+} 
+.col{ 
+    background-color: violet; 
+    margin: 5px; 
+} 
+.modal{ 
+    background-color: tomato; 
+} 
+.btn { 
+    background-color: cadetblue; 
+} 
+body{ 
+    background-image:url("https://img.freepik.com/fotos-premium/gotas-agua-fondo-gota-lluvia-cristales-ventanas-patron-natural-gotas-lluvia-tiro-abstracto-gotas-lluvia-sobre-vidrio-ciudad-noche-balcon-exterior-ventana-enfoque-selectivo-espacio-texto-o-logo_289152-4371.jpg?w=740"); 
+    
+
+    background-size: cover; /* La imagen cubrirá todo el área del body */
+    background-position: center; /* La imagen se centrará */
+    
+}
+
+.carousel-item {
+    width: 50px; /* Ancho del div en píxeles */
+    height: 50px; /* Alto del div en píxeles */
+    background-color: lightgray;
+}
